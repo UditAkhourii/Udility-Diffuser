@@ -2,6 +2,9 @@
 
 Udility Diffuser is a cutting-edge labeled-image generation model based on Meta Llama-3.5, designed to create illustrative images using SVG scripting and general inference technology. Unlike conventional diffusion models, Udility Diffuser generates labeled data that can be effectively utilized for educational and illustrative purposes.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KASVA0PPRX055eSEu3vALhBLJmXK_-m6?usp=sharing)
+
+
 ## Architecture
 
 Udility Diffuser follows a unique architecture that integrates Meta Llama-3.5 with SVG creation technologies. This approach enables the generation of labeled images that are suitable for both illustrative and educational purposes.
