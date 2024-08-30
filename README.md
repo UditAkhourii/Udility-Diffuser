@@ -91,6 +91,12 @@ diffuser.generate_image_from_text("Help me understand the mathematical integrati
 
    ![Lifecycle of an Amoeba](images/Unknown.png)
 
+
+## Future Developments
+
+We are currently developing **Udility Animator**, a text-to-animation model built on Meta Llama 3.5 and Udility Diffuser. Stay tuned for updates and check out our demos:
+
+
 ### Animations
 
 1. **Distance vs Displacement Animation**
@@ -100,14 +106,6 @@ diffuser.generate_image_from_text("Help me understand the mathematical integrati
 2. **Lifecycle of an Amoeba Animation**
 
    ![Lifecycle of an Amoeba Animation](images/Udility%20Demo%202.gif)
-
-
-## Future Developments
-
-We are currently developing **Udility Animator**, a text-to-animation model built on Meta Llama 3.5 and Udility Diffuser. Stay tuned for updates and check out our demos:
-
-- Udility Animator Demo #1
-- Udility Animator Demo #2
 
 ## Contribution
 
