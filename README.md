@@ -1,8 +1,14 @@
-Udility Diffuser Playground
+# Udility Diffuser
 
 Udility Diffuser is a cutting-edge labeled-image generation model based on Meta Llama-3.5, designed to create illustrative images using SVG scripting and general inference technology. Unlike conventional diffusion models, Udility Diffuser generates labeled data that can be effectively utilized for educational and illustrative purposes.
 
-Features
+## Architecture
+
+Udility Diffuser follows a unique architecture that integrates Meta Llama-3.5 with SVG creation technologies. This approach enables the generation of labeled images that are suitable for both illustrative and educational purposes.
+
+![Udility Diffuser Architecture](images/Udility%20Diffuser%20Architecture4.drawio.png)
+
+## Features
 
 SVG Scripting: Utilizes SVG scripting for detailed, labeled image creation.
 Text-Based Contexting: Generates images by reverse engineering the image generation process using text-based contexting.
@@ -92,11 +98,6 @@ diffuser.generate_image_from_text("Help me understand the mathematical integrati
 
    ![Lifecycle of an Amoeba Animation](images/Udility%20Demo%202.gif)
 
-## Architecture
-
-Udility Diffuser follows a unique architecture that integrates Meta Llama-3.5 with SVG creation technologies. This approach enables the generation of labeled images that are suitable for both illustrative and educational purposes.
-
-![Udility Diffuser Architecture](images/Udility%20Diffuser%20Architecture4.drawio.png)
 
 ## Future Developments
 
