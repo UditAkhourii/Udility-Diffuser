@@ -1,22 +1,20 @@
-```markdown
-# Udility Diffuser Playground
+Udility Diffuser Playground
 
-**Udility Diffuser** is a cutting-edge labeled-image generation model based on Meta Llama-3.5, designed to create illustrative images using SVG scripting and general inference technology. Unlike conventional diffusion models, Udility Diffuser generates labeled data that can be effectively utilized for educational and illustrative purposes.
+Udility Diffuser is a cutting-edge labeled-image generation model based on Meta Llama-3.5, designed to create illustrative images using SVG scripting and general inference technology. Unlike conventional diffusion models, Udility Diffuser generates labeled data that can be effectively utilized for educational and illustrative purposes.
 
-## Features
+Features
 
-- **SVG Scripting**: Utilizes SVG scripting for detailed, labeled image creation.
-- **Text-Based Contexting**: Generates images by reverse engineering the image generation process using text-based contexting.
-- **Educational Focus**: Designed specifically to create educational and illustrative images.
-- **Meta Llama-3.5 Based**: Powered by the latest Meta Llama-3.5 technology.
-
-## Installation
+SVG Scripting: Utilizes SVG scripting for detailed, labeled image creation.
+Text-Based Contexting: Generates images by reverse engineering the image generation process using text-based contexting.
+Educational Focus: Designed specifically to create educational and illustrative images.
+Meta Llama-3.5 Based: Powered by the latest Meta Llama-3.5 technology.
+Installation
 
 To get started with Udility Diffuser, ensure you have the latest package installed:
 
-```bash
+bash
+Copy code
 pip install Udility
-```
 
 ## Dependencies
 
@@ -123,6 +121,3 @@ This project is licensed under the MIT License.
 
 For more information, visit our website or contact us directly.
 
----
-
-Make sure the image filenames and paths in the README match exactly what is in your repository. If you've named the folder differently or have different file names, adjust the paths accordingly.
