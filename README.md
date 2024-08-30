@@ -77,19 +77,19 @@ diffuser.generate_image_from_text("Help me understand the mathematical integrati
 
 1. **Difference between Distance and Displacement**
 
-   ![Difference between Distance and Displacement](images/Unknown-4.png)
+   ![Difference between Distance and Displacement](images/Unknown.png)
 
 2. **Visualization of Mathematical Integration**
 
-   ![Visualization of Mathematical Integration](images/Unknown-3.png)
+   ![Visualization of Mathematical Integration](images/Unknown-4.png)
 
 3. **Visualization of Accelerated Motion**
 
-   ![Visualization of Accelerated Motion](images/Unknown-2.png)
+   ![Visualization of Accelerated Motion](images/Unknown-3.png)
 
 4. **Lifecycle of an Amoeba**
 
-   ![Lifecycle of an Amoeba](images/Unknown.png)
+   ![Lifecycle of an Amoeba](images/Unknown-2.png)
 
 
 ## Future Developments
@@ -99,11 +99,11 @@ We are currently developing **Udility Animator**, a text-to-animation model buil
 
 ### Animations
 
-1. **Distance vs Displacement Animation**
+1. **Lifecycle of Amoeba & Lifecycle of Plans**
 
    ![Distance vs Displacement Animation](images/Udility%20demo1.gif)
 
-2. **Lifecycle of an Amoeba Animation**
+2. **Distance vs Displacement & Motion of Pendulum**
 
    ![Lifecycle of an Amoeba Animation](images/Udility%20Demo%202.gif)
 
@@ -122,4 +122,3 @@ This project is licensed under the MIT License.
 **Version**: v2.0 (1st public version)  
 
 For more information, visit our website or contact us directly.
-
